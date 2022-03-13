@@ -24,3 +24,9 @@ ___
 As of now, we don't know when the project and the code will be complete. But we are advancing towards our goal. I am sure we will complete the project soon.
 
 If you want to help us with our project feel free to open an issue and we will surely look towards it.
+
+___
+
+### Where can I find the code of this project?
+
+As of now, we haven't disclosed the code yet, but yes we will disclose the code after it is complete for educational purposes only!!!
